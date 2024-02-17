@@ -17,7 +17,7 @@
 
 <b>How to use</b>
 - Clone the project to your directory apache / project path
-- Change file <b>.env.example</b> into <b>.env</>
+- Change file <b>.env.example</b> into <b>.env</b>
 - Run <b>composer install</b>
 - Run <b>php artisan key:generate</b>
 - Don't forget to create database with name same as configuration of <b>.env</b> file
