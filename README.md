@@ -26,4 +26,4 @@
 - Run the project, and happy coding!
 
 Regards
-<b>Rafi Fathur Rahman</b>
+<p><b>Rafi Fathur Rahman</b></p>
